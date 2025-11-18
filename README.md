@@ -11,10 +11,9 @@ Checked for missing or null values
 
 Cleaned the data (removed unnecessary columns)
 
-Created visualizations:
-✔️ Bar Chart: Rural vs Urban population
-✔️ Histogram: Male / Female / Rural / Urban population distribution
-
+Created Visualizations:
+✔️ Histograms: Male and Female population distribution
+✔️ Bar Charts: Area and Population Density of states/UTs
 🛠️ Technologies Used
 
 Python
