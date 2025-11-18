@@ -1,8 +1,7 @@
-# PRODIGY_DS_01
 PRODIGY_DS_01 – Data Visualization Task
-📌 Task Overview
 
-In this task, I worked with a population dataset and performed basic data cleaning and visualization using Python (Pandas & Matplotlib).
+📌 Task Overview
+In this task, I worked with an Indian population dataset and performed data cleaning and visualization using Python (Pandas & Matplotlib).
 
 📂 What I Did
 
@@ -12,11 +11,9 @@ Checked for missing or null values
 
 Cleaned the data (removed unnecessary columns)
 
-Created:
-
-✔️ Bar chart (Rural vs Urban population)
-
-✔️ Histogram (Male / Rural / Urban population distribution)
+Created visualizations:
+✔️ Bar Chart: Rural vs Urban population
+✔️ Histogram: Male / Female / Rural / Urban population distribution
 
 🛠️ Technologies Used
 
@@ -29,17 +26,23 @@ Matplotlib
 Jupyter Notebook
 
 📊 Outcome
+This task helped me gain practical experience in:
 
-This task helped me understand:
-
-Data loading & cleaning
+Loading and cleaning datasets
 
 Handling missing values
 
 Plotting histograms and bar charts
 
-Visualizing population distribution across states
+Visualizing population distribution across Indian states/UTs
+
+📁 Files in This Repository
+
+task01.ipynb – Code for loading, cleaning, and visualizing data
+
+population.csv – Dataset used
+
+README.md – Project description
 
 🤝 Acknowledgement
-
-This project is part of the Prodigy InfoTech Data Science Internship.
+This project was completed as part of the Prodigy InfoTech Data Science Internship.
